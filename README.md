@@ -19,4 +19,4 @@
  
  ### 🌟 Meus Stats 🌟
  ![DrewDomi GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdomi&show_icons=true&theme=dark&hide=stars,issues)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewdomi&layout=compact&theme=dark&hide=scss,html)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewdomi&layout=compact&theme=dark&hide=scss,html,shell)
