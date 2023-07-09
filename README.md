@@ -15,8 +15,6 @@
  ![STORYBOOK](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
  ![AXIOS](https://img.shields.io/badge/axios-00599C?style=for-the-badge&logo=axios&logoColor=white)
  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
  ### 🌟 Meus Stats 🌟
  ![DrewDomi GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdomi&show_icons=true&theme=dark&hide=stars,issues)
