@@ -34,7 +34,7 @@
       alt="Andrew LinkedIn"
    />
   </a>
-  <a href="https://www.linkedin.com/in/drewdomi/" target="_blank">
+  <a href="https://discord.gg/rUZRTrggat" target="_blank">
     <img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
       alt="Comunidade do discord"
