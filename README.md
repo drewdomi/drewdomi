@@ -1,5 +1,7 @@
 ### 👋 Seja muito bem vindo ao meu GitHub
 # Andrew Domingues - Fullstack Developer
+[![Drew Domi](https://img.shields.io/badge/Portfolio_Homepage-EFEFEF?style=for-the-badge&logo=googlechrome&logoColor=2B2B2B)](https://drewdomi.com)
+
 <br>
 
 ## 🖥️ Tecnologias que uso atualmente
