@@ -23,6 +23,7 @@
 
 ## 🖥️ Tecnologias que estou estudando
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FLyway](https://img.shields.io/badge/Flyway-white?style=for-the-badge&logo=Flyway&logoColor=FF1B2D)
