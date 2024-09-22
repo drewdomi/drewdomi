@@ -39,4 +39,4 @@
 ### 🌟 Meus Stats
 ![DrewDomi GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdomi&show_icons=true&theme=dark&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewdomi&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md)
-[![roadmap.sh](https://roadmap.sh/card/wide/64885cae52e24cb0dbb1611d?variant=dark&roadmaps=backend%2Cgolang%2Cjava%2Cspring-boot)](https://roadmap.sh/u/drewdomi)
+[![roadmap.sh](https://roadmap.sh/card/wide/64885cae52e24cb0dbb1611d?variant=dark&roadmaps=golang%2Cjava%2Cbackend%2Cangular)](https://roadmap.sh)
