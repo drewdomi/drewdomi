@@ -1,7 +1,7 @@
 ### 👋 Welcome to my GitHub
 # Drew Domi - Software Developer
 
-<div align="left">
+<div align="center">
   <a href="https://drewdomi.com" target="_blank">
     <img width="200" src="https://drewdomi.com/homepage.webp" alt="Homepage">
   </a>
