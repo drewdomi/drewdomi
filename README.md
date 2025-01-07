@@ -34,7 +34,7 @@
 ## ☎️ Contact me
 [![EMAIL](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contato@drewdomi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drewdomi/)
-[![HomePage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drewdomi.com)
+[![Website](https://img.shields.io/badge/♠_Website-000000?style=for-the-badge&logoColor=white)](https://drewdomi.com)
 
 ### 🌟 My Stats
 ![DrewDomi GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdomi&show_icons=true&theme=dark&hide=stars,issues)
